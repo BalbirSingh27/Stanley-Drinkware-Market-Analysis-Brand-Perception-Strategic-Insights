@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 
-This project was developed as part of the **Marketing Analytics** coursework at [W. P. Carey School of Business](https://wpcarey.asu.edu/) – [Arizona State University](https://www.asu.edu). The aim was to analyze **consumer preferences and brand perception** around Stanley water bottles and generate actionable marketing strategies using **Enginius – Marketing Analytics Made Easy**.
+This project was developed as part of the **Marketing Analytics** coursework at [W. P. Carey School of Business](https://wpcarey.asu.edu/) – [Arizona State University](https://www.asu.edu). The aim was to analyze **consumer preferences and brand perception** around Stanley water bottles and generate actionable marketing strategies using **Enginius – Marketing Analytics**.
 
 ## 🎯 Objective
 
