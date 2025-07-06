@@ -61,7 +61,7 @@ You can find the dataset used in this analysis under the [`/dataset`](./dataset)
 
 ## 🧑‍💼 Team
 
-This project was completed by Group 8 as part of the MKT coursework. Special thanks to our professor and peers at ASU.
+This project was completed  as part of the MKT coursework. Special thanks to our professor and peers at ASU.
 
 ---
 
