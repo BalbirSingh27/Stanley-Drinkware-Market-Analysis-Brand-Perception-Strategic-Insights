@@ -73,6 +73,6 @@ Role: Data Analysis, Segmentation, Visual Storytelling
 ## 🔗 Connect
 
 Want to collaborate or learn more about the project?  
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/bsingh27/) or email at **bsingh73@asu.edu**.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bsingh27/) or email at **bsingh73@asu.edu**.
 
 ---
