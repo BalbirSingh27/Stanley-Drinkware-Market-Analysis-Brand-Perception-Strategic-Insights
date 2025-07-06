@@ -1,4 +1,4 @@
-# 📊 Stanley Water Bottles – Marketing Analytics Project
+# 📊 [Stanley Marketing Analytics](./assets/stanley-banner.png)
 
 ## 📁 Project Overview
 
@@ -28,6 +28,7 @@ You can find the dataset used in this analysis under the [`/dataset`](./dataset)
 - Raw survey results
 - Cleaned data files used in Enginius
 - Attribute evaluation sheets
+The dataset captures quantitative responses across 7 brand attributes: Price, Quality, Durability, Insulation, Comfort, Style, and Brand Image.
 
 📋 View Google Form response data here: [Survey Results](https://docs.google.com/forms/d/1bOMofxa_cQG5wy8d45rKBlbSo3VAUfB-0s44AYIKLkA/edit#responses)
 
@@ -62,6 +63,8 @@ You can find the dataset used in this analysis under the [`/dataset`](./dataset)
 ## 🧑‍💼 Team
 
 This project was completed  as part of the MKT coursework. Special thanks to our professor and peers at ASU.
+Team 8 | Balbir Singh, Yu-Chin Chen, Maria Sequiera, Rasika Teli, Darshan Kamlakar  
+Role: Data Analysis, Segmentation, Visual Storytelling
 
 ---
 
